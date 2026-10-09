@@ -1,16 +1,18 @@
-# React + Vite
+🚀 TaskBuddy is a powerful task management app built using ReactJS. It helps users manage daily tasks with ease — add, update, delete, track progress, and clear all tasks with just one click!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Add Tasks: Users can add new tasks to the list.
+Update Tasks: Users can edit the details of existing tasks.
+Delete Tasks: Users can remove tasks from the list.
+Clear All Tasks: Users can clear all tasks with a single click.
+Progress Tracker: Visual representation of the task completion status.
+Usage
+Adding Tasks: Enter task details and click "Add Task" to add a new task.
+Updating Tasks: Click on a task to edit its details.
+Deleting Tasks: Click the trash icon next to a task to delete it.
+Clearing All Tasks: Click the "Clear All Tasks" button to remove all tasks.
+Progress Tracker: View the progress of your tasks in the progress tracker.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
